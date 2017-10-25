@@ -1,0 +1,7 @@
+C:\DotNetOctober\CSharpLibrary\0.06_For_Loops\bin\Debug\0.06_For_Loops.exe.config
+C:\DotNetOctober\CSharpLibrary\0.06_For_Loops\bin\Debug\0.06_For_Loops.exe
+C:\DotNetOctober\CSharpLibrary\0.06_For_Loops\bin\Debug\0.06_For_Loops.pdb
+C:\DotNetOctober\CSharpLibrary\0.06_For_Loops\obj\Debug\0.06_For_Loops.csprojResolveAssemblyReference.cache
+C:\DotNetOctober\CSharpLibrary\0.06_For_Loops\obj\Debug\0.06_For_Loops.csproj.CoreCompileInputs.cache
+C:\DotNetOctober\CSharpLibrary\0.06_For_Loops\obj\Debug\0.06_For_Loops.exe
+C:\DotNetOctober\CSharpLibrary\0.06_For_Loops\obj\Debug\0.06_For_Loops.pdb
