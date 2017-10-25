@@ -1,0 +1,6 @@
+C:\DotNetOctober\CSharpLibrary\0.02_BasicTypes\bin\Debug\0.02_BasicTypes.exe.config
+C:\DotNetOctober\CSharpLibrary\0.02_BasicTypes\bin\Debug\0.02_BasicTypes.exe
+C:\DotNetOctober\CSharpLibrary\0.02_BasicTypes\bin\Debug\0.02_BasicTypes.pdb
+C:\DotNetOctober\CSharpLibrary\0.02_BasicTypes\obj\Debug\0.02_BasicTypes.csproj.CoreCompileInputs.cache
+C:\DotNetOctober\CSharpLibrary\0.02_BasicTypes\obj\Debug\0.02_BasicTypes.exe
+C:\DotNetOctober\CSharpLibrary\0.02_BasicTypes\obj\Debug\0.02_BasicTypes.pdb

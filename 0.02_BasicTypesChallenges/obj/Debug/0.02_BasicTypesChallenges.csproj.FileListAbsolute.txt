@@ -1,0 +1,7 @@
+C:\DotNetOctober\CSharpLibrary\0.02_BasicTypesChallenges\obj\Debug\0.02_BasicTypesChallenges.csprojResolveAssemblyReference.cache
+C:\DotNetOctober\CSharpLibrary\0.02_BasicTypesChallenges\obj\Debug\0.02_BasicTypesChallenges.csproj.CoreCompileInputs.cache
+C:\DotNetOctober\CSharpLibrary\0.02_BasicTypesChallenges\bin\Debug\0.02_BasicTypesChallenges.exe.config
+C:\DotNetOctober\CSharpLibrary\0.02_BasicTypesChallenges\bin\Debug\0.02_BasicTypesChallenges.exe
+C:\DotNetOctober\CSharpLibrary\0.02_BasicTypesChallenges\bin\Debug\0.02_BasicTypesChallenges.pdb
+C:\DotNetOctober\CSharpLibrary\0.02_BasicTypesChallenges\obj\Debug\0.02_BasicTypesChallenges.exe
+C:\DotNetOctober\CSharpLibrary\0.02_BasicTypesChallenges\obj\Debug\0.02_BasicTypesChallenges.pdb

@@ -1,0 +1,7 @@
+C:\DotNetOctober\CSharpLibrary\CSharpLibrary\bin\Debug\CSharpLibrary.exe.config
+C:\DotNetOctober\CSharpLibrary\CSharpLibrary\bin\Debug\CSharpLibrary.exe
+C:\DotNetOctober\CSharpLibrary\CSharpLibrary\bin\Debug\CSharpLibrary.pdb
+C:\DotNetOctober\CSharpLibrary\CSharpLibrary\obj\Debug\CSharpLibrary.csprojResolveAssemblyReference.cache
+C:\DotNetOctober\CSharpLibrary\CSharpLibrary\obj\Debug\CSharpLibrary.csproj.CoreCompileInputs.cache
+C:\DotNetOctober\CSharpLibrary\CSharpLibrary\obj\Debug\CSharpLibrary.exe
+C:\DotNetOctober\CSharpLibrary\CSharpLibrary\obj\Debug\CSharpLibrary.pdb
