@@ -1,0 +1,6 @@
+C:\DotNetOctober\CSharpLibrary\0.05_SwitchCase\bin\Debug\0.05_SwitchCase.exe.config
+C:\DotNetOctober\CSharpLibrary\0.05_SwitchCase\bin\Debug\0.05_SwitchCase.exe
+C:\DotNetOctober\CSharpLibrary\0.05_SwitchCase\bin\Debug\0.05_SwitchCase.pdb
+C:\DotNetOctober\CSharpLibrary\0.05_SwitchCase\obj\Debug\0.05_SwitchCase.csproj.CoreCompileInputs.cache
+C:\DotNetOctober\CSharpLibrary\0.05_SwitchCase\obj\Debug\0.05_SwitchCase.exe
+C:\DotNetOctober\CSharpLibrary\0.05_SwitchCase\obj\Debug\0.05_SwitchCase.pdb
