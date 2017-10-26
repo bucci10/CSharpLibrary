@@ -1,0 +1,7 @@
+C:\DotNetOctober\CSharpLibrary\0.08_Objects_Challenges\bin\Debug\0.08_Objects_Challenges.exe.config
+C:\DotNetOctober\CSharpLibrary\0.08_Objects_Challenges\bin\Debug\0.08_Objects_Challenges.exe
+C:\DotNetOctober\CSharpLibrary\0.08_Objects_Challenges\bin\Debug\0.08_Objects_Challenges.pdb
+C:\DotNetOctober\CSharpLibrary\0.08_Objects_Challenges\obj\Debug\0.08_Objects_Challenges.csproj.CoreCompileInputs.cache
+C:\DotNetOctober\CSharpLibrary\0.08_Objects_Challenges\obj\Debug\0.08_Objects_Challenges.exe
+C:\DotNetOctober\CSharpLibrary\0.08_Objects_Challenges\obj\Debug\0.08_Objects_Challenges.pdb
+C:\DotNetOctober\CSharpLibrary\0.08_Objects_Challenges\obj\Debug\0.08_Objects_Challenges.csprojResolveAssemblyReference.cache
