@@ -1,0 +1,7 @@
+C:\DotNetOctober\CSharpLibrary\0.08_ArraysChallenge\bin\Debug\0.08_ArraysChallenge.exe.config
+C:\DotNetOctober\CSharpLibrary\0.08_ArraysChallenge\bin\Debug\0.08_ArraysChallenge.exe
+C:\DotNetOctober\CSharpLibrary\0.08_ArraysChallenge\bin\Debug\0.08_ArraysChallenge.pdb
+C:\DotNetOctober\CSharpLibrary\0.08_ArraysChallenge\obj\Debug\0.08_ArraysChallenge.csproj.CoreCompileInputs.cache
+C:\DotNetOctober\CSharpLibrary\0.08_ArraysChallenge\obj\Debug\0.08_ArraysChallenge.exe
+C:\DotNetOctober\CSharpLibrary\0.08_ArraysChallenge\obj\Debug\0.08_ArraysChallenge.pdb
+C:\DotNetOctober\CSharpLibrary\0.08_ArraysChallenge\obj\Debug\0.08_ArraysChallenge.csprojResolveAssemblyReference.cache
