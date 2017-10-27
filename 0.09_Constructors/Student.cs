@@ -7,11 +7,25 @@ using System.Threading.Tasks;
 namespace _0._09_Constructors
 {
     class Student
-    {
+    {   
+
+
+
 
         //Constructors
-        //Constructor 1
+        
+        
+            
+            
+         //Constructor 1
 
+
+        public Student(string firstName)
+        {
+            this.FirstName = firstName;
+        }
+
+        //Constructor 2 
 
         public Student( string firstName, string lastName, int grade)
         {
@@ -20,7 +34,7 @@ namespace _0._09_Constructors
             this.Grade = grade;
         }
 
-        //Constructor 2
+        //Constructor 3
         public Student(string firstName, string lastName, int age, int grade)
         {
             this.FirstName = firstName;

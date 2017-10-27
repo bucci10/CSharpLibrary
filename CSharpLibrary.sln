@@ -29,6 +29,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0.08_ArraysChallenge", "0.0
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0.08_CollectionsDictionaries", "0.09_CollectionsDictionaries\0.08_CollectionsDictionaries.csproj", "{F5EF506E-3B8B-4419-9E12-A7D8ADA589BB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0.09_Constructors", "0.09_Constructors\0.09_Constructors.csproj", "{1B4CD708-BAE7-4118-B7B5-EA076FC000D8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0.10_ConstructorChallenge", "0.10_ConstructorChallenge\0.10_ConstructorChallenge.csproj", "{A289DB86-1165-4ACE-9BAA-C2F7422521F9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +91,14 @@ Global
 		{F5EF506E-3B8B-4419-9E12-A7D8ADA589BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F5EF506E-3B8B-4419-9E12-A7D8ADA589BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F5EF506E-3B8B-4419-9E12-A7D8ADA589BB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1B4CD708-BAE7-4118-B7B5-EA076FC000D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B4CD708-BAE7-4118-B7B5-EA076FC000D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B4CD708-BAE7-4118-B7B5-EA076FC000D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B4CD708-BAE7-4118-B7B5-EA076FC000D8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A289DB86-1165-4ACE-9BAA-C2F7422521F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A289DB86-1165-4ACE-9BAA-C2F7422521F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A289DB86-1165-4ACE-9BAA-C2F7422521F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A289DB86-1165-4ACE-9BAA-C2F7422521F9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
