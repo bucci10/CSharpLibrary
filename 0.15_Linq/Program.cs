@@ -38,7 +38,7 @@ namespace _0._15_Linq
 
             IEnumerable<Employee> queryTwo = from e in emlopyees
                                              where e.HiredDate.Year == 2016
-                                             orderby e.Name descending
+                                             orderby e.Name ascending
                                              select e;
             foreach (Employee employee in queryTwo)
             {

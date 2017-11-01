@@ -45,6 +45,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0.14_Override", "0.14_Overr
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0.15_Linq", "0.15_Linq\0.15_Linq.csproj", "{26D87AFF-E91A-4B12-8C99-563111729146}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0.04ifelsedocs", "0.04ifelsedocs\0.04ifelsedocs.csproj", "{AE9822B4-69D5-4F94-892A-DA33958D4640}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -135,6 +137,10 @@ Global
 		{26D87AFF-E91A-4B12-8C99-563111729146}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{26D87AFF-E91A-4B12-8C99-563111729146}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{26D87AFF-E91A-4B12-8C99-563111729146}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AE9822B4-69D5-4F94-892A-DA33958D4640}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE9822B4-69D5-4F94-892A-DA33958D4640}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE9822B4-69D5-4F94-892A-DA33958D4640}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE9822B4-69D5-4F94-892A-DA33958D4640}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

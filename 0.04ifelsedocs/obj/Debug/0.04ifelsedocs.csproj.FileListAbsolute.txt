@@ -1,0 +1,6 @@
+C:\DotNetOctober\CSharpLibrary\0.04ifelsedocs\bin\Debug\0.04ifelsedocs.exe.config
+C:\DotNetOctober\CSharpLibrary\0.04ifelsedocs\bin\Debug\0.04ifelsedocs.exe
+C:\DotNetOctober\CSharpLibrary\0.04ifelsedocs\bin\Debug\0.04ifelsedocs.pdb
+C:\DotNetOctober\CSharpLibrary\0.04ifelsedocs\obj\Debug\0.04ifelsedocs.csproj.CoreCompileInputs.cache
+C:\DotNetOctober\CSharpLibrary\0.04ifelsedocs\obj\Debug\0.04ifelsedocs.exe
+C:\DotNetOctober\CSharpLibrary\0.04ifelsedocs\obj\Debug\0.04ifelsedocs.pdb
