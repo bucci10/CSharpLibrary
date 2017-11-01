@@ -21,18 +21,22 @@ namespace _0._11_OOP_Game_BulidAlong
         public double CritChance { get; set; }
 
         //Methods
-        public double Attack()
+        public int Attack()
         {
             Random rnd = new Random();
             int spread = rnd.Next(-5, 6);
             int damage = this.AttackPower + spread;
             bool isCrit = IsCritical();
-            return 0;
-        }
+          
+            return isCrit ? damage*2 : damage;
 
+        }
+           
         public bool IsCritical()
         {
-            return true;
+            Random rnd = new Random();
+            bool isCrit = rnd.Next(0, 101) < (this.CritChance * 100) ? true : false;
+            return isCrit;
             
 
         }

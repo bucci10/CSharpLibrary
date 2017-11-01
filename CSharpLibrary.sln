@@ -35,6 +35,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0.10_ConstructorChallenge",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0.10_OOP_Game", "0.10_OOP_Game\0.10_OOP_Game.csproj", "{CFD076C4-1604-44EC-85D1-FD075DB8E825}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0.11_OOP_Game_BulidAlong", "0.11_OOP_Game_BulidAlong\0.11_OOP_Game_BulidAlong.csproj", "{E20B941F-8E5D-48B4-AA22-567EC4326FC1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0.12_MethodsOverloading", "0.12_MethodsOverloading\0.12_MethodsOverloading.csproj", "{532BC953-52B7-4603-8CC5-A2060B792EE1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -105,6 +109,14 @@ Global
 		{CFD076C4-1604-44EC-85D1-FD075DB8E825}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CFD076C4-1604-44EC-85D1-FD075DB8E825}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CFD076C4-1604-44EC-85D1-FD075DB8E825}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E20B941F-8E5D-48B4-AA22-567EC4326FC1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E20B941F-8E5D-48B4-AA22-567EC4326FC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E20B941F-8E5D-48B4-AA22-567EC4326FC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E20B941F-8E5D-48B4-AA22-567EC4326FC1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{532BC953-52B7-4603-8CC5-A2060B792EE1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{532BC953-52B7-4603-8CC5-A2060B792EE1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{532BC953-52B7-4603-8CC5-A2060B792EE1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{532BC953-52B7-4603-8CC5-A2060B792EE1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

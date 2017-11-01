@@ -1,0 +1,7 @@
+C:\DotNetOctober\CSharpLibrary\0.11_OOP_Game_BulidAlong\bin\Debug\0.11_OOP_Game_BulidAlong.exe.config
+C:\DotNetOctober\CSharpLibrary\0.11_OOP_Game_BulidAlong\bin\Debug\0.11_OOP_Game_BulidAlong.exe
+C:\DotNetOctober\CSharpLibrary\0.11_OOP_Game_BulidAlong\bin\Debug\0.11_OOP_Game_BulidAlong.pdb
+C:\DotNetOctober\CSharpLibrary\0.11_OOP_Game_BulidAlong\obj\Debug\0.11_OOP_Game_BulidAlong.csprojResolveAssemblyReference.cache
+C:\DotNetOctober\CSharpLibrary\0.11_OOP_Game_BulidAlong\obj\Debug\0.11_OOP_Game_BulidAlong.csproj.CoreCompileInputs.cache
+C:\DotNetOctober\CSharpLibrary\0.11_OOP_Game_BulidAlong\obj\Debug\0.11_OOP_Game_BulidAlong.exe
+C:\DotNetOctober\CSharpLibrary\0.11_OOP_Game_BulidAlong\obj\Debug\0.11_OOP_Game_BulidAlong.pdb
