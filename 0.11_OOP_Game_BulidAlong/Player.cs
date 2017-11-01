@@ -19,6 +19,13 @@ namespace _0._11_OOP_Game_BulidAlong
             this.AttackPower = 10;
             this.CritChance = 0.10;
         }
+        // Setting value method; affects the return.
+        public void MakeOverPowered()
+        {
+            this.Level = 9999;
+            this.AttackPower = 99999;
+            this.CritChance = 1.00;
+        }
         
         //Properties
         public Specialization Role { get; set; }

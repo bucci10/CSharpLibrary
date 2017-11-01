@@ -21,11 +21,17 @@ namespace _0._12_MethodsOverloading
 
             Player me = new Player();
             me.Attack(2500);
-          
-        }
+            me.Attack(1000, "dusty stick");
+            me.Attack(500, "Katana", 90);
 
-        
 
+            //Using return method
+            int num1 = 3;
+            int num2 = 5;
+
+            int product = num1 * num2;              // equals 15
+            int product2 = me.Multiply(num1, num2); // equals 15
+        }       
 
     }
 }
