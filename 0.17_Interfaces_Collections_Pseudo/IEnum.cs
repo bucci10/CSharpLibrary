@@ -8,5 +8,8 @@ namespace _0._17_Interfaces_Collections_Pseudo
 {
     interface IEnum
     {
+        //Method signature "Name of method" "No returns, just declaring"
+        void IterateOverCollection();
+
     }
 }

@@ -10,6 +10,13 @@ namespace _0._17_Interfaces_Collections_Pseudo
     {
         static void Main(string[] args)
         {
+            //Adding a new instance 
+            ArrayClass exampleArrayClass = new ArrayClass();
+            exampleArrayClass.CheckTheCapacity();
+            //Added new instance
+            ListClass exampleListClass = new ListClass();
+            exampleListClass.CheckTheCapacity();
+
         }
     }
 }

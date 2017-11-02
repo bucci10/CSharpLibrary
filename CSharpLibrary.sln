@@ -49,6 +49,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0.04ifelsedocs", "0.04ifels
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0.16_Quiz1", "0.16_Quiz1\0.16_Quiz1.csproj", "{356EBEBD-788B-4379-9C23-E3C8B739B0D1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0.17_Interfaces_Collections_Pseudo", "0.17_Interfaces_Collections_Pseudo\0.17_Interfaces_Collections_Pseudo.csproj", "{DD54CE67-CA79-422D-95AA-1271D8C4B989}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -147,6 +149,10 @@ Global
 		{356EBEBD-788B-4379-9C23-E3C8B739B0D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{356EBEBD-788B-4379-9C23-E3C8B739B0D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{356EBEBD-788B-4379-9C23-E3C8B739B0D1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DD54CE67-CA79-422D-95AA-1271D8C4B989}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD54CE67-CA79-422D-95AA-1271D8C4B989}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD54CE67-CA79-422D-95AA-1271D8C4B989}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD54CE67-CA79-422D-95AA-1271D8C4B989}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -8,5 +8,7 @@ namespace _0._17_Interfaces_Collections_Pseudo
 {
     interface IList
     {
+        void RemoveStuff();
+        void AddStuff();
     }
 }

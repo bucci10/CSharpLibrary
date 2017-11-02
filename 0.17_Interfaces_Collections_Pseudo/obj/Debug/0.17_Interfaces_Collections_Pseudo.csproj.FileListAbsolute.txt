@@ -1,0 +1,6 @@
+C:\DotNetOctober\CSharpLibrary\0.17_Interfaces_Collections_Pseudo\bin\Debug\0.17_Interfaces_Collections_Pseudo.exe.config
+C:\DotNetOctober\CSharpLibrary\0.17_Interfaces_Collections_Pseudo\bin\Debug\0.17_Interfaces_Collections_Pseudo.exe
+C:\DotNetOctober\CSharpLibrary\0.17_Interfaces_Collections_Pseudo\bin\Debug\0.17_Interfaces_Collections_Pseudo.pdb
+C:\DotNetOctober\CSharpLibrary\0.17_Interfaces_Collections_Pseudo\obj\Debug\0.17_Interfaces_Collections_Pseudo.csproj.CoreCompileInputs.cache
+C:\DotNetOctober\CSharpLibrary\0.17_Interfaces_Collections_Pseudo\obj\Debug\0.17_Interfaces_Collections_Pseudo.exe
+C:\DotNetOctober\CSharpLibrary\0.17_Interfaces_Collections_Pseudo\obj\Debug\0.17_Interfaces_Collections_Pseudo.pdb
