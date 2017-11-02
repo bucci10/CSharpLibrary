@@ -11,8 +11,14 @@ namespace _0._17_Interfaces_Collections_Pseudo
         static void Main(string[] args)
         {
             //Adding a new instance 
+            //Whats the difference between an abstract class and an inteface??
+            //Abrstract allows default definition, interface requires the class to make the implementation 
+            //Abstract class: 
+            //Interfaces:
+
             ArrayClass exampleArrayClass = new ArrayClass();
             exampleArrayClass.CheckTheCapacity();
+           
             //Added new instance
             ListClass exampleListClass = new ListClass();
             exampleListClass.CheckTheCapacity();

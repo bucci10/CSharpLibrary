@@ -8,5 +8,12 @@ namespace _0._18AccessModifiers
 {
     class Point
     {
+        public int x { get; set; }
+        private int y { get; set; }
+        
+        public int PointMethod()
+        {
+            return this.x + this.y;
+        }
     }
 }

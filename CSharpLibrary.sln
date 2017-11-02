@@ -51,6 +51,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0.16_Quiz1", "0.16_Quiz1\0.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0.17_Interfaces_Collections_Pseudo", "0.17_Interfaces_Collections_Pseudo\0.17_Interfaces_Collections_Pseudo.csproj", "{DD54CE67-CA79-422D-95AA-1271D8C4B989}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0.18AccessModifiers", "0.18AccessModifiers\0.18AccessModifiers.csproj", "{92499C5F-DC02-444D-931D-5B2B5BFF89BC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -153,6 +155,10 @@ Global
 		{DD54CE67-CA79-422D-95AA-1271D8C4B989}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DD54CE67-CA79-422D-95AA-1271D8C4B989}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DD54CE67-CA79-422D-95AA-1271D8C4B989}.Release|Any CPU.Build.0 = Release|Any CPU
+		{92499C5F-DC02-444D-931D-5B2B5BFF89BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92499C5F-DC02-444D-931D-5B2B5BFF89BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92499C5F-DC02-444D-931D-5B2B5BFF89BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92499C5F-DC02-444D-931D-5B2B5BFF89BC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

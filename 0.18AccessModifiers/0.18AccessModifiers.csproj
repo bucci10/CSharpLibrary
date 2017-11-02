@@ -7,7 +7,7 @@
     <ProjectGuid>{92499C5F-DC02-444D-931D-5B2B5BFF89BC}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>_0._18AccessModifiers</RootNamespace>
-    <AssemblyName>_0._18AccessModifiers</AssemblyName>
+    <AssemblyName>0.18AccessModifiers</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -42,6 +42,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="DerivedPoint.cs" />
+    <Compile Include="Point.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
