@@ -10,6 +10,9 @@ namespace _0._16_Quiz1
     {
         static void Main(string[] args)
         {
-        }
-    }
+            Triangle newTriangle = new Triangle(3, 6);
+
+            Console.WriteLine(newTriangle.TArea);
+        }   
+    }   
 }

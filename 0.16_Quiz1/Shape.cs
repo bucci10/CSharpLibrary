@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace _0._16_Quiz1
 {
-    class Shape
+    public abstract class Shape
     {
+        abstract public double Area();
     }
 }
