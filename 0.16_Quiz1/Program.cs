@@ -18,10 +18,15 @@ namespace _0._16_Quiz1
                 new Triangle(5, 7),
                 new Triangle(5, 3)
             };
+      
 
-            foreach (var triangle in shapes)
+            IEnumerable<Triangle> queryTwo = from t in shapes
+                                             where t.TArea > 5.0
+                                             orderby t.TArea ascending
+                                             select t;
+            foreach (Triangle s in queryTwo)
             {
-                Console.WriteLine(triangle.TArea);
+                Console.WriteLine(s.TArea);
             }
         }   
     }   
