@@ -10,7 +10,7 @@ namespace _0._16_Quiz1
     {
         static void Main(string[] args)
         {
-            List<Triangle> shapes = new List<Triangle>
+            List<Triangle> triangles = new List<Triangle>
             {
                 new Triangle(5, 5),
                 new Triangle(2, 7),
@@ -20,7 +20,7 @@ namespace _0._16_Quiz1
             };
       
 
-            IEnumerable<Triangle> queryTwo = from t in shapes
+            IEnumerable<Triangle> queryTwo = from t in triangles
                                              where t.TArea > 5.0
                                              orderby t.TArea ascending
                                              select t;
