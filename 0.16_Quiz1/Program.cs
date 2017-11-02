@@ -10,9 +10,19 @@ namespace _0._16_Quiz1
     {
         static void Main(string[] args)
         {
-            Triangle newTriangle = new Triangle(3, 6);
+            List<Triangle> shapes = new List<Triangle>
+            {
+                new Triangle(5, 5),
+                new Triangle(2, 7),
+                new Triangle(6, 9),
+                new Triangle(5, 7),
+                new Triangle(5, 3)
+            };
 
-            Console.WriteLine(newTriangle.TArea);
+            foreach (var triangle in shapes)
+            {
+                Console.WriteLine(triangle.TArea);
+            }
         }   
     }   
 }
