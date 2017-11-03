@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 namespace _0._18AccessModifiers
 {
     class Point
-    {
+    {   //Public vs Public difference
         public int x { get; set; }
         private int y { get; set; }
         
