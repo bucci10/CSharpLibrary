@@ -32,6 +32,10 @@ namespace _0._07_Objects
 
             Console.WriteLine(PaulDonut);
             Console.WriteLine(PaulDonut.Filling);
+            Console.WriteLine(PaulDonut.Price);
+            Console.WriteLine(PaulDonut.IsSpecial);
+
+
 
         }
     }

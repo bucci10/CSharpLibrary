@@ -24,6 +24,8 @@ namespace _0._03_Strings
 
 
 
+
+
             
             Console.WriteLine("Hello my name is " + fullName + ". I am a " + occupation + ".");
 
@@ -31,6 +33,8 @@ namespace _0._03_Strings
             Console.WriteLine("Hello, my name is {0}. I am a {1}.", fullName, occupation);
 
             Console.WriteLine($"Hello, my name is {fullName}. I am a {occupation}.");
+
+
         }
     }
 }
