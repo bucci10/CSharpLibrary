@@ -1,0 +1,15 @@
+C:\DotNetOctober\CSharpLibrary\ElevenNote\ElevenNotes.Services\bin\Debug\ElevenNotes.Services.dll.config
+C:\DotNetOctober\CSharpLibrary\ElevenNote\ElevenNotes.Services\bin\Debug\ElevenNotes.Services.dll
+C:\DotNetOctober\CSharpLibrary\ElevenNote\ElevenNotes.Services\bin\Debug\ElevenNotes.Services.pdb
+C:\DotNetOctober\CSharpLibrary\ElevenNote\ElevenNotes.Services\bin\Debug\EntityFramework.dll
+C:\DotNetOctober\CSharpLibrary\ElevenNote\ElevenNotes.Services\bin\Debug\EntityFramework.SqlServer.dll
+C:\DotNetOctober\CSharpLibrary\ElevenNote\ElevenNotes.Services\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\DotNetOctober\CSharpLibrary\ElevenNote\ElevenNotes.Services\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\DotNetOctober\CSharpLibrary\ElevenNote\ElevenNotes.Services\bin\Debug\EntityFramework.xml
+C:\DotNetOctober\CSharpLibrary\ElevenNote\ElevenNotes.Services\bin\Debug\EntityFramework.SqlServer.xml
+C:\DotNetOctober\CSharpLibrary\ElevenNote\ElevenNotes.Services\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\DotNetOctober\CSharpLibrary\ElevenNote\ElevenNotes.Services\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\DotNetOctober\CSharpLibrary\ElevenNote\ElevenNotes.Services\obj\Debug\ElevenNotes.Services.csprojResolveAssemblyReference.cache
+C:\DotNetOctober\CSharpLibrary\ElevenNote\ElevenNotes.Services\obj\Debug\ElevenNotes.Services.csproj.CoreCompileInputs.cache
+C:\DotNetOctober\CSharpLibrary\ElevenNote\ElevenNotes.Services\obj\Debug\ElevenNotes.Services.dll
+C:\DotNetOctober\CSharpLibrary\ElevenNote\ElevenNotes.Services\obj\Debug\ElevenNotes.Services.pdb

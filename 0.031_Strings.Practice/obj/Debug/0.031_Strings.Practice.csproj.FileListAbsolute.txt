@@ -1,0 +1,7 @@
+C:\DotNetOctober\CSharpLibrary\0.031_Strings.Practice\bin\Debug\0.031_Strings.Practice.exe.config
+C:\DotNetOctober\CSharpLibrary\0.031_Strings.Practice\bin\Debug\0.031_Strings.Practice.exe
+C:\DotNetOctober\CSharpLibrary\0.031_Strings.Practice\bin\Debug\0.031_Strings.Practice.pdb
+C:\DotNetOctober\CSharpLibrary\0.031_Strings.Practice\obj\Debug\0.031_Strings.Practice.csproj.CoreCompileInputs.cache
+C:\DotNetOctober\CSharpLibrary\0.031_Strings.Practice\obj\Debug\0.031_Strings.Practice.exe
+C:\DotNetOctober\CSharpLibrary\0.031_Strings.Practice\obj\Debug\0.031_Strings.Practice.pdb
+C:\DotNetOctober\CSharpLibrary\0.031_Strings.Practice\obj\Debug\0.031_Strings.Practice.csprojResolveAssemblyReference.cache

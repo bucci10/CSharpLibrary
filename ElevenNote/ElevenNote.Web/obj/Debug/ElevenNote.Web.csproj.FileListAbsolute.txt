@@ -1,0 +1,2 @@
+C:\DotNetOctober\CSharpLibrary\ElevenNote\ElevenNote.Web\obj\Debug\ElevenNote.Web.csprojResolveAssemblyReference.cache
+C:\DotNetOctober\CSharpLibrary\ElevenNote\ElevenNote.Web\obj\Debug\ElevenNote.Web.csproj.CoreCompileInputs.cache

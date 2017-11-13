@@ -34,6 +34,7 @@ namespace _0._03_Strings
 
             Console.WriteLine($"Hello, my name is {fullName}. I am a {occupation}.");
 
+          
 
         }
     }
