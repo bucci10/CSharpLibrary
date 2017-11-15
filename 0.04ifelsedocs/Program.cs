@@ -21,6 +21,7 @@ namespace _0._04ifelsedocs
                 Console.WriteLine("The variable is set to false.");
             }
             Console.ReadLine();
+
         }
     }
 }

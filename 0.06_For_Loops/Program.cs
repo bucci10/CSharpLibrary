@@ -11,7 +11,7 @@ namespace _0._06_For_Loops
         static void Main(string[] args)
         {
 
-            for (int i = 0; i <= 10; i = i + 2)
+            for (int i = 4; i <= 10; i = i + 2)
             {
                 if (i == 10)
                 {
@@ -21,7 +21,7 @@ namespace _0._06_For_Loops
                 {
                     Console.WriteLine(i);
                 }
-
+                Console.ReadLine();
             }
 
         }

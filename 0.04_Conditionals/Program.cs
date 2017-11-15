@@ -10,7 +10,7 @@ namespace _0._04_Conditionals
     {
         static void Main(string[] args)
         {
-            Console.Write("How do you feel about SkyDiving? ");
+            Console.Write("On a scale of 1-5, how do you feel about SkyDiving? ");
             int userInput = Convert.ToInt32(Console.ReadLine());
             if (userInput == 1)
             {

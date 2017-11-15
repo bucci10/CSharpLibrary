@@ -14,8 +14,9 @@ namespace _0._03_StringsChallenge
             // BRONZE CHALLENGE
             // Currency
 
-            double cash = 438;
+            double cash = 43768;
             Console.WriteLine("{0:C}", cash);
+           
 
             //Percentage
 
@@ -30,14 +31,6 @@ namespace _0._03_StringsChallenge
 
             Console.WriteLine("{0: (###) ### - ####}", phoneNumber);
 
-            Console.WriteLine(formatedphoneNumber);
-
-
-
-
-
-
-
 
             //SILVER CHALLENGE
             string potentialEmployerName = "John Joe";
@@ -45,12 +38,7 @@ namespace _0._03_StringsChallenge
             Console.WriteLine($"Today is { DateTime.Now:d} I'm enjoying calls, and i think i'm enjoying C# the best.\n" +
                 $"I'd like to get a job as a developer after i finish this course.");
 
-            
-
-
-
-
-
         }
     }
+           
 }
