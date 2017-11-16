@@ -64,10 +64,7 @@ namespace ElevenNote.Services
 
             using (var ctx = new ElevenNoteDBContext())
             {
-                entity =
-                    ctx
-                        .Notes
-                        .SingleOrDefault(e => e.NoteId == id && e.OwnerId == _userId);
+                entity = GetNoteById(ctx, id);
 
             }
 
@@ -89,10 +86,7 @@ namespace ElevenNote.Services
          
             using (var ctx = new ElevenNoteDBContext())
             {
-               var entity =
-                    ctx
-                        .Notes
-                        .SingleOrDefault(e => e.NoteId == model.NoteId && e.OwnerId == _userId);
+                var entity = GetNoteById(ctx, model.NoteId);
 
                 if (entity == null) return false;
 
@@ -104,14 +98,20 @@ namespace ElevenNote.Services
             }
         }
 
+        private NoteEntity GetNoteById(ElevenNoteDBContext context, int noteId)
+        {
+            return
+                context
+                    .Notes
+                     .SingleOrDefault(e => e.NoteId == noteId && e.OwnerId == _userId); 
+        }
+
         public bool DeleteNote(int noteId)
         {
             using (var ctx = new ElevenNoteDBContext())
             {
-                var entity =
-                    ctx
-                        .Notes
-                        .SingleOrDefault(e => e.NoteId == noteId && e.OwnerId == _userId);
+                var entity = GetNoteById(ctx, noteId);
+                    
 
                 if (entity == null) return false;
 
