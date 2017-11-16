@@ -83,6 +83,26 @@ namespace ElevenNote.Services
                     ModifiedUtc = entity.ModifiedUtc
                 };
         }
+
+        public bool UpdateNote(NoteEditModel model)
+        {
+         
+            using (var ctx = new ElevenNoteDBContext())
+            {
+               var entity =
+                    ctx
+                        .Notes
+                        .SingleOrDefault(e => e.NoteId == model.NoteId && e.OwnerId == _userId);
+
+                if (entity == null) return false;
+
+                entity.Title = model.Title;
+                entity.Content = model.Content;
+                entity.ModifiedUtc = DateTime.UtcNow;
+
+                return ctx.SaveChanges() == 1;
+            }
+        }
     }
 }
 

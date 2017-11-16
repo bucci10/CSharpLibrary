@@ -39,7 +39,7 @@ namespace ElevenNote.Web.Controllers
         {
             if (!ModelState.IsValid) return View(model);
 
-            if (!!CreateNoteService().CreateNote(model))
+            if (!CreateNoteService().CreateNote(model))
             {
                 ModelState.AddModelError("", "Unable to create note");
                 return View(model);
