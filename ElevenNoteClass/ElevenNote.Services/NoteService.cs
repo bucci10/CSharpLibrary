@@ -58,6 +58,14 @@ namespace ElevenNote.Services
             }
         }
 
+        private NoteEntity GetNoteById(ElevenNoteDBContext context, int noteId)
+        {
+            return
+                context
+                    .Notes
+                    .SingleOrDefault(e => e.NoteId == noteId && e.OwnerId == _userId);
+        }
+
         public NoteDetail GetNoteById(int id)
         {
             NoteEntity entity;
@@ -96,14 +104,6 @@ namespace ElevenNote.Services
 
                 return ctx.SaveChanges() == 1;
             }
-        }
-
-        private NoteEntity GetNoteById(ElevenNoteDBContext context, int noteId)
-        {
-            return
-                context
-                    .Notes
-                     .SingleOrDefault(e => e.NoteId == noteId && e.OwnerId == _userId); 
         }
 
         public bool DeleteNote(int noteId)
