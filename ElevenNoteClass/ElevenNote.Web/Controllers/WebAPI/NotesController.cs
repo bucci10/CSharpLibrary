@@ -25,7 +25,7 @@ namespace ElevenNote.Web.Controllers.WebAPI
                 new NoteEditModel
                 {
                     NoteId = detail.NoteId,
-                    Title = detail.Title,
+                    Title = detail.Title,S
                     Content = detail.Content,
                     IsStarred = newState
                 };
