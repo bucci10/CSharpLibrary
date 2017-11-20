@@ -1,0 +1,7 @@
+C:\DotNetOctober\CSharpLibrary\NumberGuesser\NumberGuesser\bin\Debug\NumberGuesser.exe.config
+C:\DotNetOctober\CSharpLibrary\NumberGuesser\NumberGuesser\bin\Debug\NumberGuesser.exe
+C:\DotNetOctober\CSharpLibrary\NumberGuesser\NumberGuesser\bin\Debug\NumberGuesser.pdb
+C:\DotNetOctober\CSharpLibrary\NumberGuesser\NumberGuesser\obj\Debug\NumberGuesser.csprojResolveAssemblyReference.cache
+C:\DotNetOctober\CSharpLibrary\NumberGuesser\NumberGuesser\obj\Debug\NumberGuesser.csproj.CoreCompileInputs.cache
+C:\DotNetOctober\CSharpLibrary\NumberGuesser\NumberGuesser\obj\Debug\NumberGuesser.exe
+C:\DotNetOctober\CSharpLibrary\NumberGuesser\NumberGuesser\obj\Debug\NumberGuesser.pdb
