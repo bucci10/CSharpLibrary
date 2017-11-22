@@ -1,0 +1,17 @@
+C:\DotNetOctober\CSharpLibrary\Bank\Bank.ConsoleApp\bin\Debug\Bank.ConsoleApp.exe.config
+C:\DotNetOctober\CSharpLibrary\Bank\Bank.ConsoleApp\bin\Debug\Bank.ConsoleApp.exe
+C:\DotNetOctober\CSharpLibrary\Bank\Bank.ConsoleApp\bin\Debug\Bank.ConsoleApp.pdb
+C:\DotNetOctober\CSharpLibrary\Bank\Bank.ConsoleApp\bin\Debug\Bank.Services.dll
+C:\DotNetOctober\CSharpLibrary\Bank\Bank.ConsoleApp\bin\Debug\Bank.Models.dll
+C:\DotNetOctober\CSharpLibrary\Bank\Bank.ConsoleApp\bin\Debug\EntityFramework.dll
+C:\DotNetOctober\CSharpLibrary\Bank\Bank.ConsoleApp\bin\Debug\Bank.Services.pdb
+C:\DotNetOctober\CSharpLibrary\Bank\Bank.ConsoleApp\bin\Debug\Bank.Services.dll.config
+C:\DotNetOctober\CSharpLibrary\Bank\Bank.ConsoleApp\bin\Debug\Bank.Models.pdb
+C:\DotNetOctober\CSharpLibrary\Bank\Bank.ConsoleApp\bin\Debug\Bank.Models.dll.config
+C:\DotNetOctober\CSharpLibrary\Bank\Bank.ConsoleApp\bin\Debug\EntityFramework.xml
+C:\DotNetOctober\CSharpLibrary\Bank\Bank.ConsoleApp\obj\Debug\Bank.ConsoleApp.csprojResolveAssemblyReference.cache
+C:\DotNetOctober\CSharpLibrary\Bank\Bank.ConsoleApp\obj\Debug\Bank.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\DotNetOctober\CSharpLibrary\Bank\Bank.ConsoleApp\obj\Debug\Bank.ConsoleApp.exe
+C:\DotNetOctober\CSharpLibrary\Bank\Bank.ConsoleApp\obj\Debug\Bank.ConsoleApp.pdb
+C:\DotNetOctober\CSharpLibrary\Bank\Bank.ConsoleApp\bin\Debug\EntityFramework.SqlServer.dll
+C:\DotNetOctober\CSharpLibrary\Bank\Bank.ConsoleApp\bin\Debug\EntityFramework.SqlServer.xml

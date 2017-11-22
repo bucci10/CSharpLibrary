@@ -1,0 +1,11 @@
+C:\DotNetOctober\CSharpLibrary\Bank\Bank.Models\bin\Debug\Bank.Models.dll.config
+C:\DotNetOctober\CSharpLibrary\Bank\Bank.Models\bin\Debug\Bank.Models.dll
+C:\DotNetOctober\CSharpLibrary\Bank\Bank.Models\bin\Debug\Bank.Models.pdb
+C:\DotNetOctober\CSharpLibrary\Bank\Bank.Models\bin\Debug\EntityFramework.dll
+C:\DotNetOctober\CSharpLibrary\Bank\Bank.Models\bin\Debug\EntityFramework.SqlServer.dll
+C:\DotNetOctober\CSharpLibrary\Bank\Bank.Models\bin\Debug\EntityFramework.xml
+C:\DotNetOctober\CSharpLibrary\Bank\Bank.Models\bin\Debug\EntityFramework.SqlServer.xml
+C:\DotNetOctober\CSharpLibrary\Bank\Bank.Models\obj\Debug\Bank.Models.csprojResolveAssemblyReference.cache
+C:\DotNetOctober\CSharpLibrary\Bank\Bank.Models\obj\Debug\Bank.Models.csproj.CoreCompileInputs.cache
+C:\DotNetOctober\CSharpLibrary\Bank\Bank.Models\obj\Debug\Bank.Models.dll
+C:\DotNetOctober\CSharpLibrary\Bank\Bank.Models\obj\Debug\Bank.Models.pdb
