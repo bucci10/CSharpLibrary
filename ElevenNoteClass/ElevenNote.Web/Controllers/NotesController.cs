@@ -113,6 +113,7 @@ namespace ElevenNote.Web.Controllers
             TempData["SaveResult"] = "Your note was deleted";
 
             return RedirectToAction("Index");
+
         }
     }
 }

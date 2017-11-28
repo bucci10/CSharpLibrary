@@ -125,4 +125,4 @@ namespace ElevenNote.Services
     }
 }
 
-// "e" is note entitiy from database
+// "e" is note entity from database
