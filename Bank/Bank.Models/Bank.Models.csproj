@@ -67,7 +67,6 @@
       <DesignTime>True</DesignTime>
       <DependentUpon>BankModels.edmx</DependentUpon>
     </Compile>
-    <Compile Include="Class1.cs" />
     <Compile Include="Customer.cs">
       <DependentUpon>BankModels.tt</DependentUpon>
     </Compile>

@@ -22,29 +22,5 @@ namespace Bank.Services
             }
         }
 
-        public bool ChangePIN(int customerID, int pinNum, int newPinNum)
-        {
-            using (var ctx = new BankDBEntities())
-            {
-                Customer c =
-                    ctx
-                        .Customers
-                        .FirstOrDefault(e => e.CustomerID == customerID);
-
-                if (c.PIN == pinNum)
-                {
-                    c.PIN = newPinNum;
-
-                    ctx.SaveChanges();
-
-                    return true;
-                }
-                else
-                {
-                    return false;
-                }
-            }
-        }
-
     }
 }

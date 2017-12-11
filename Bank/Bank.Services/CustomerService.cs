@@ -9,21 +9,27 @@ namespace Bank.Services
 {
    public class CustomerService
     {
-        public bool CreateCustomer(int CustomerID, string firstName, string lastName)
+        public bool CreateCustomer(int customerID, string firstName, string lastName, int pin)
         {
             using (var ctx = new BankDBEntities())
             {
                 var newCustomer =
                     new Customer
                     {
-                        CustomerID = CustomerID,
+                        CustomerID = customerID,
                         FirstName = firstName,
-                        LastName = lastName
+                        LastName = lastName,
+                        PIN = pin
 
                     };
                 ctx.Customers.Add(newCustomer);
                 return ctx.SaveChanges() == 1;
             }
+        }
+
+        public void CreateCustomer(Customer user)
+        {
+            throw new NotImplementedException();
         }
     }
 }
