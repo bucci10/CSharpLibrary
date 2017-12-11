@@ -13,7 +13,7 @@ namespace _0._06_For_Loops
 
             for (int i = 4; i <= 10; i = i + 2)
             {
-                if (i == 10)
+                if (i == 12)
                 {
                     Console.WriteLine("End of the line budddddy");
                 }

@@ -14,6 +14,7 @@
     <EntitySetMapping Name="Customers">
       <EntityTypeMapping TypeName="BankDBModel.Customer">
         <MappingFragment StoreEntitySet="Customers">
+          <ScalarProperty Name="PIN" ColumnName="PIN" />
           <ScalarProperty Name="CustomerID" ColumnName="CustomerID" />
           <ScalarProperty Name="FirstName" ColumnName="FirstName" />
           <ScalarProperty Name="LastName" ColumnName="LastName" />

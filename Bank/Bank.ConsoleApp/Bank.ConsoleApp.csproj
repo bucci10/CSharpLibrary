@@ -49,14 +49,21 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="BankATMController.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="App.config" />
+    <None Include="App.config">
+      <SubType>Designer</SubType>
+    </None>
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\Bank.Models\Bank.Models.csproj">
+      <Project>{17E70E69-6B76-4344-9B88-1DF05B9D5CEE}</Project>
+      <Name>Bank.Models</Name>
+    </ProjectReference>
     <ProjectReference Include="..\Bank.Services\Bank.Services.csproj">
       <Project>{ED660AEA-01B6-4F40-AF6C-0403A40D972B}</Project>
       <Name>Bank.Services</Name>

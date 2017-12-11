@@ -4,7 +4,7 @@
   <edmx:Runtime>
     <!-- SSDL content -->
     <edmx:StorageModels>
-      <Schema Namespace="BankDBModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+    <Schema Namespace="BankDBModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
         <EntityType Name="Accounts">
           <Key>
             <PropertyRef Name="AccountID" />
@@ -21,6 +21,7 @@
           <Property Name="CustomerID" Type="int" Nullable="false" />
           <Property Name="FirstName" Type="nchar" MaxLength="50" Nullable="false" />
           <Property Name="LastName" Type="nchar" MaxLength="50" Nullable="false" />
+          <Property Name="PIN" Type="int" Nullable="false" />
         </EntityType>
         <EntityType Name="Transactions">
           <Key>
@@ -69,8 +70,7 @@
             <End Role="Transactions" EntitySet="Transactions" />
           </AssociationSet>
         </EntityContainer>
-      </Schema>
-    </edmx:StorageModels>
+      </Schema></edmx:StorageModels>
     <!-- CSDL content -->
     <edmx:ConceptualModels>
       <Schema Namespace="BankDBModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
@@ -93,6 +93,7 @@
           <Property Name="FirstName" Type="String" MaxLength="50" FixedLength="true" Unicode="true" Nullable="false" />
           <Property Name="LastName" Type="String" MaxLength="50" FixedLength="true" Unicode="true" Nullable="false" />
           <NavigationProperty Name="Accounts" Relationship="Self.FK__Accounts__Custom__2B3F6F97" FromRole="Customers" ToRole="Accounts" />
+          <Property Name="PIN" Type="Int32" Nullable="false" />
         </EntityType>
         <EntityType Name="Transaction">
           <Key>
@@ -161,6 +162,7 @@
           <EntitySetMapping Name="Customers">
             <EntityTypeMapping TypeName="BankDBModel.Customer">
               <MappingFragment StoreEntitySet="Customers">
+                <ScalarProperty Name="PIN" ColumnName="PIN" />
                 <ScalarProperty Name="CustomerID" ColumnName="CustomerID" />
                 <ScalarProperty Name="FirstName" ColumnName="FirstName" />
                 <ScalarProperty Name="LastName" ColumnName="LastName" />

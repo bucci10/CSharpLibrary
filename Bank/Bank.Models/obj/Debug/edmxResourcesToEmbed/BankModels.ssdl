@@ -16,6 +16,7 @@
     <Property Name="CustomerID" Type="int" Nullable="false" />
     <Property Name="FirstName" Type="nchar" MaxLength="50" Nullable="false" />
     <Property Name="LastName" Type="nchar" MaxLength="50" Nullable="false" />
+    <Property Name="PIN" Type="int" Nullable="false" />
   </EntityType>
   <EntityType Name="Transactions">
     <Key>

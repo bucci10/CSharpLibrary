@@ -44,6 +44,8 @@ namespace _0._15_Linq
             {
                 Console.WriteLine(employee.Name);
             }
+
+            Console.WriteLine();
             
         }
     }

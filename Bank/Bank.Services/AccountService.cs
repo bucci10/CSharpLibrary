@@ -20,12 +20,41 @@ namespace Bank.Services
                     AccountType = accountType,
                     Balance = balance
                 };
-                ctx.account.Add(Account);
+                ctx.Accounts.Add(Account);
                 return ctx.SaveChanges() == 1;
 
                     
             }
         }
+
+
+        public Account GetAccountByID(int customerID, int accountID)
+        {
+            using (var ctx = new BankDBEntities())
+            {
+                return
+                    ctx
+                        .Accounts
+                        .SingleOrDefault(e => e.CustomerID == customerID && e.AccountID == accountID);
+            }
+        }
+
+        public List<Account> GetAccount(int customerID)
+        {
+            using (var ctx = new BankDBEntities())
+            {
+                return
+                    ctx
+                        .Accounts
+                        .Where(e => e.CustomerID == customerID)
+                        .ToList();
+            }
+        }
+
+        public void CreateAccount(Account account)
+        {
+            throw new NotImplementedException();
+        }
     }
 }
-
+    
